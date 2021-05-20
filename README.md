@@ -1,6 +1,7 @@
 Languages Used - HTML, CSS, Javascript, PHP, mySQL.
 Frameworks Used - Bootstrap.
 
+
 Features of the website :
 1. Users can fill up registration forms of BUCC events.
 2. Users can watch all the seminars and workshops from BUCC facebook page and Youtube channel on this website. 
